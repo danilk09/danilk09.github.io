@@ -14,9 +14,9 @@ summary: "Our team delivered a web application for the Honolulu Annual Code Chal
 ---
 
 <div class="text-center">
-  <img width="800px" class="img-fluid" src="../img/hacc/hacc_website.png">
+  <img width="1200px" class="img-fluid" src="../img/hacc/hacc_website.png">
 </div>
-
+<br>
 The Honolulu Annual Code Challenge (HACC) is a coding competition ranging from amateurs up to professional programmers where they develop solutions for real problems within the community of Hawaii. The competition I participated in lasted one month. The project my team selected was to develop a web application that standardized how projects and their respective reports were viewed or edited by Enterprise Technology Services (ETS) employees, Independent Verification and Validation (IV&V) vendors, and the public.
 
 Within the first week, our team decided on the tech stack, made flowcharts, and produced mock web pages in Figma. These steps aided in facilitating an efficient development process for the following weeks. We then divided into back-end and front-end teams where I focused on front-end development. While waiting for the ability to pull actual data from the database, I developed some of the pages planned in Figma along with their components. I ensured that they were responsive and worked as expected. Additionally, I established a user-friendly navigation bar. Once the database was set up, each page and their components were converted to use data from the database. In the days preceding the project submission, our team continually tested and fixed bugs in the webpage.

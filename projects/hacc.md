@@ -8,10 +8,12 @@ published: true
 labels:
   - React
   - Vite
-  - Firestore
+  - Firebase
   - GitHub
 summary: "Our team delivered a web application for the Honolulu Annual Code Challenge to improve the management and viewing of projects and reports for different users."
 ---
+
+<img class="img-fluid" src="../img/hacc/hacc_website.png">
 
 The Honolulu Annual Code Challenge (HACC) is a coding competition ranging from amateurs up to professional programmers where they develop solutions for real problems within the community of Hawaii. The competition I participated in lasted one month. The project my team selected was to develop a web application that standardized how projects and their respective reports were viewed or edited by Enterprise Technology Services (ETS) employees, Independent Verification and Validation (IV&V) vendors, and the public.
 
@@ -21,4 +23,4 @@ Although the competition only lasted a month, it was highly educational and I ga
 
 The website with sample data can be viewed <a href="https://cachemoney-46cb3.web.app/"><i class="large github icon "></i>here</a>
 
-Source Code:
+Source Code: <a href="https://github.com/HACC25/Cache-Money"><i class="large github icon "></i>https://github.com/HACC25/Cache-Money</a>

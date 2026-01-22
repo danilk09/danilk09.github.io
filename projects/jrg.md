@@ -13,7 +13,7 @@ summary: "A text-based game focusing on improving the reading comprehension spee
 ---
 
 <div class="text-center">
-  <img width="400px" class="img-fluid" src="../img/jrg/hiragana_table.png">
+  <img width="800px" class="img-fluid" src="../img/jrg/hiragana_table.png">
 </div>
 
 The Japanese Reading Game is a text-based game designed to aid in improving the reading comprehension speed of Japanese hiragana and katakana characters. The logic of the game is to provide words written in hiragana or katakana to a user and then have that individual respond with the romaji version of the word. The faster a user answers, the more points they gain. The hiragana and katakana words along with their romaji counterpart are stored in a SQLite database. The game itself is written in C and interfaces with SQLite to provide questions to the user and check the user’s answers. Currently, the game can only be played using the terminal. I plan to make it more accessible to users through Discord.

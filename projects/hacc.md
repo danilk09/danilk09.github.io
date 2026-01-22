@@ -14,7 +14,7 @@ summary: "Our team delivered a web application for the Honolulu Annual Code Chal
 ---
 
 <div class="text-center">
-  <img class="img-fluid" src="../img/hacc/hacc_website.png">
+  <img width="800px" class="img-fluid" src="../img/hacc/hacc_website.png">
 </div>
 
 The Honolulu Annual Code Challenge (HACC) is a coding competition ranging from amateurs up to professional programmers where they develop solutions for real problems within the community of Hawaii. The competition I participated in lasted one month. The project my team selected was to develop a web application that standardized how projects and their respective reports were viewed or edited by Enterprise Technology Services (ETS) employees, Independent Verification and Validation (IV&V) vendors, and the public.

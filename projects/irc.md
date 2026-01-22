@@ -12,7 +12,9 @@ labels:
 summary: "A website providing valuable information about indoor rock climbing."
 ---
 
-<img class="img-fluid" src="../img/irc/irc_website.png">
+<div class="text-center">
+  <img class="img-fluid" src="../img/irc/irc_website.png">
+</div>
 
 Indoor Rock Climbing 101 is a website built to consolidate various pieces of information about indoor rock climbing all in one location. This information includes terms, holds, etiquette, techniques, exercises, stretches, nutritional recommendations, and equipment. Knowledge in these areas aids in improving communication among climbers, enhancing the climber’s experience, and increasing safety.
 

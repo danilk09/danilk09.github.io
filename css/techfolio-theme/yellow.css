@@ -6,7 +6,7 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-yellow1: #FFD700;
+  --tf-yellow1: #ffbf00;
   --tf-yellow2: #faf86c;
   --tf-yellow3: #fdfb8d;
   --tf-yellow4: #fdfcd0;
@@ -16,8 +16,12 @@
   --tf-icon-fill: var(--tf-gray);
   --tf-icon-hover: var(--tf-yellow1);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-gray);
+  --tf-footer-bg-color: var(--tf-yellow4);
   --tf-projects-bg-color: var(--tf-yellow4);
+}
+
+.badge.rounded-pill {
+  color: #000;
 }
 
 /* Format social media icons */

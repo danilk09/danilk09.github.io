@@ -11,6 +11,10 @@ labels:
   - Interests
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/mc-qc/command_block.png" >
+
 ## The Beginning: Minecraft
 
 Where did my interest in software engineering begin? I could be more professional and say a game development course I took during the lockdown or the free online introduction to computer science course provided by Harvard. However, my interest started with Minecraft. One random day, I discovered this item called a command block, which can run in-game commands—essentially establishing Minecraft’s very own programming language. The moment I discovered them, I started teaching myself how they worked through simple trial and error with no outside resources. I found every available command by typing one letter into the game’s chat bar and seeing what commands popped up starting with that letter. I then experimented with each command to learn what they did. I started coding my own mini games and at one point started creating a Minecraft version of Among Us. I would spend hours coding without realizing how much time had passed. This is when I realized that my passion was programming.

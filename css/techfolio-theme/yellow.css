@@ -12,16 +12,12 @@
   --tf-yellow4: #fdfcd0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--tf-yellow3);
+  --tf-pill-bg: var(--tf-yellow1);
   --tf-icon-fill: var(--tf-gray);
   --tf-icon-hover: var(--tf-yellow1);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-yellow4);
+  --tf-footer-bg-color: var(--tf-gray);
   --tf-projects-bg-color: var(--tf-yellow4);
-}
-
-p {
-  color: var(--bs-gray);
 }
 
 /* Format social media icons */

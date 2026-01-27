@@ -7,12 +7,12 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-yellow1: #ffbf00;
-  --tf-yellow2: #faf86c;
+  --tf-yellow2: #fffd78;
   --tf-yellow3: #fdfb8d;
   --tf-yellow4: #fdfcd0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--tf-yellow1);
+  --tf-pill-bg: var(--tf-yellow2);
   --tf-icon-fill: var(--tf-gray);
   --tf-icon-hover: var(--tf-yellow1);
   --tf-page-bg-color: var(--bs-white);

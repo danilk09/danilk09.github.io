@@ -4,10 +4,9 @@
     "label": "Student",
     "picture": "img/danil_knight.jpg",
     "email": "danil.k1469@gmail.com",
-    "phone": "831-915-7592",
     "website": "https://danilk09.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2028. I am seeking computer science summer internship to strengthen personal competencies, while contributing to the organization’s goals.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "danilk09", "url": "https://github.com/danilk09" },
       { "network": "linkedin", "username": "danil-k1469", "url": "https://www.linkedin.com/in/danil-k1469/" }

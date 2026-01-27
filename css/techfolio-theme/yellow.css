@@ -6,29 +6,24 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-yellow1: #fffc4a;
+  --tf-yellow1: #fffb1f;
   --tf-yellow2: #faf86c;
   --tf-yellow3: #fdfb8d;
-  --tf-yellow4: #fffec8;
+  --tf-yellow4: #fdfcd0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-yellow1);
   --tf-pill-bg: var(--tf-yellow3);
-  --tf-icon-fill: var(--tf-yellow1);
-  --tf-icon-hover: var(--tf-yellow3);
+  --tf-icon-fill: var(--tf-gray);
+  --tf-icon-hover: var(--tf-yellow1);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-yellow4);
   --tf-projects-bg-color: var(--tf-yellow4);
 }
 
-h1,h2,h3,h4,h5 {
-  color: var(--tf-yellow1);
-  font-family: Rubik;
-}
-
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-yellow1);
+  fill: var(--tf-icon-fill);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;

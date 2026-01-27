@@ -21,7 +21,7 @@
 }
 
 .badge.rounded-pill {
-  color: #000;
+  color: var(--tf-gray);
 }
 
 /* Format social media icons */

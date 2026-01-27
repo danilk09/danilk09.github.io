@@ -8,20 +8,20 @@
 :root {
   --tf-yellow1: #ffbf00;
   --tf-yellow2: #fffd78;
-  --tf-yellow3: #fdfb8d;
-  --tf-yellow4: #fdfcd0;
+  --tf-yellow3: #fdfcd0;
+  --tf-text: #686868;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--tf-yellow2);
   --tf-icon-fill: var(--tf-gray);
   --tf-icon-hover: var(--tf-yellow1);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-yellow4);
-  --tf-projects-bg-color: var(--tf-yellow4);
+  --tf-footer-bg-color: var(--tf-yellow3);
+  --tf-projects-bg-color: var(--tf-yellow3);
 }
 
 .badge.rounded-pill {
-  color: var(--tf-gray);
+  color: var(--tf-text);
 }
 
 /* Format social media icons */

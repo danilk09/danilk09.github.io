@@ -21,8 +21,8 @@ According to Raymond, a smart question is one that demonstrates good research an
 
 Here is the link to this [question](https://stackoverflow.com/questions/79876516/why-are-spaces-being-converted-to-slashes-when-converting-a-string-to-an-array-b)
 
-<img width="250px" 
-     class="rounded float-start pe-4" 
+<img width="1200px" 
+     class="image-fluid" 
      src="../img/smart-questions/stack_overflow.png" >
 
 ## A Smart Question

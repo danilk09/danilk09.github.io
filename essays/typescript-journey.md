@@ -11,7 +11,7 @@ labels:
   - Opinion
 ---
 
-<img width="200px" 
+<img width="250px" 
      class="rounded float-start pe-4" 
      src="../img/typescript-journey/typescript.jpg" >
 

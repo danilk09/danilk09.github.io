@@ -21,9 +21,9 @@ According to Raymond, a smart question is one that demonstrates good research an
 
 Here is the link to this [question](https://stackoverflow.com/questions/79876516/why-are-spaces-being-converted-to-slashes-when-converting-a-string-to-an-array-b)
 
-<img width="200px" 
+<img width="250px" 
      class="rounded float-start pe-4" 
-     src="../img/smart-questions/stack_overflow.jpg" >
+     src="../img/smart-questions/stack_overflow.png" >
 
 ## A Smart Question
 
@@ -39,7 +39,7 @@ One not smart question I found on Stack Overflow was about a Google OAuth error.
 
 After seeing these results on Stack Overflow, I understand the value of asking smart questions and how beneficial they can be for myself and the people helping. For any future questions I have, I will ensure that I follow Raymond’s guidelines.
 
-<div style="text-align: center;">
-## Works Cited
-</div>
+<h2 style="text-align: center;">
+Works Cited
+</h2>
 Raymond, Eric. _How To Ask Questions The Smart Way_, 2014, [www.catb.org/~esr/faqs/smart-questions.html](www.catb.org/~esr/faqs/smart-questions.html).

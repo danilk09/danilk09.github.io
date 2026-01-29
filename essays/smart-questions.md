@@ -20,7 +20,7 @@ labels:
 According to Raymond, a smart question is one that demonstrates good research and is asked as clearly and precisely as possible. Conducting good research includes looking up and attempting solutions, but demonstrating this is done by inquiring in the right place and providing context on what has been attempted. As for asking questions in a clear and precise manner, this ensures there is an unambiguous goal the asker wants to accomplish. Formulating questions in this way accomplishes multiple things. Firstly, it establishes clear communication between the asker and the replier because the person answering can approach the problem with all the information they need without having to make any assumptions. Moreover, since there are distinct goals, the asker is left with fewer or no additional questions if a solution is found. Secondly, it demonstrates respect for other people’s time. The people answering are volunteering to do so. Therefore, the asker should put the effort into doing intensive research on their problem before resorting to asking others for help and communicating this effectively. Failing to do so can imply laziness, discouraging volunteers from helping.
 
 <div class="text-center">
-  <img width="1200px" class="img-fluid" src="../img/smart-questions/stack_overflow.png">
+  <img width="800px" class="img-fluid" src="../img/smart-questions/stack_overflow.png">
 </div>
 
 ## A Smart Question

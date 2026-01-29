@@ -11,6 +11,10 @@ labels:
   - Opinion
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/typescript-journey/typescript.jpg" >
+
 ## Making First Contact with TypeScript
 
 My first encounter with TypeScript was during the Honolulu Annual Coding Challenge. With four other groupmates, we had to code a website that standardized the viewing and editing of projects and reports for the Office of Enterprise Technology Services. Since the project lasted only a month, I decided to work in the area I had the most experience in, which was the front-end. The framework we decided to use was React with TypeScript files. Both of these were new to me so I had to teach myself quickly to ensure I could contribute to the project. I watched an hour-long tutorial about the basics of React and then threw myself into the deep end by starting to code the web pages. After a week, I became familiar enough to comfortably code features and design the pages. But because of the short timeframe, I focused more on understanding that a line of code would do something rather than knowing why. Therefore, having a formal education on TypeScript through my software development class has been valuable. For instance, I now know what rest parameters are and the differences between special types like undefined, never, and null. Moreover, I learned new functionalities such as type aliases, enums, utility types, etc. As I learn more, I can take advantage of more TypeScript features to build better web applications.

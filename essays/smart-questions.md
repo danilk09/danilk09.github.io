@@ -29,7 +29,7 @@ One smart question I discovered on Stack Overflow was about a TypeScript issue w
 
 This led to an efficient and detailed response answering this person’s question. The answerer explained the issue, provided a method for clearly seeing the issue for future reference, and gave a simple solution. To top it all off, the individual who asked the question upvoted this answer and marked it as the best answer for anyone else who may encounter a similar problem. Additionally, they updated their post to reflect what solution they decided to use.
 
-Here is the link to this [question](https://stackoverflow.com/questions/79876516/why-are-spaces-being-converted-to-slashes-when-converting-a-string-to-an-array-b)
+Here is the link to this [question](https://stackoverflow.com/questions/79876516/why-are-spaces-being-converted-to-slashes-when-converting-a-string-to-an-array-b).
 
 ## A Not So Smart Question
 
@@ -37,7 +37,7 @@ One not smart question I found on Stack Overflow was about a Google OAuth error.
 
 After seeing these results on Stack Overflow, I understand the value of asking smart questions and how beneficial they can be for myself and the people helping. For any future questions I have, I will ensure that I follow Raymond’s guidelines.
 
-Here is the link to this [question](https://stackoverflow.com/questions/79876663/what-are-some-reasons-for-google-oauth-2-0-error-400-nonetype)
+Here is the link to where this [question](https://stackoverflow.com/questions/79876663/what-are-some-reasons-for-google-oauth-2-0-error-400-nonetype) previously existed.
 
 <h2 style="text-align: center;">
 Works Cited

@@ -36,6 +36,11 @@
       "startDate": "2024-08-26",
       "endDate": "Present",
       "courses": [
+        "Intro to Computer Science I and II",
+        "Discrete Mathematics I and II",
+        "Program Structure",
+        "Algorithms",
+        "Software Engineering I"
       ]
     }
   ],
@@ -63,6 +68,18 @@
         "Developed an automatic documentation generator tool with Sphinx and GitHub Actions assisting end users with code usage",
         "Initiated interfacing with an RFM95 radio sensor using Python, employing a communication protocol—Serial Peripheral Interface (SPI)—unfamiliar to the Applied Research Laboratory"
       ]
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Prince of Peace Catholic Church",
+      "website": "",
+      "position": "Catechist Assistant",
+      "startDate": "2023-01-04",
+      "endDate": "Present",
+      "summary": "Coach and monitor children during activities and guide them on their Catholic path",
+      "highlights": [
+      ]  
     }
   ],
   "volunteer": [

@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "From Minecraft to Quantum Computing"
-# All dates must be YYYY-MM-DD format!
 date: 2026-01-22
 published: true
 labels:

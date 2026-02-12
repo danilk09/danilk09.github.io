@@ -11,7 +11,7 @@ labels:
   - Opinion
 ---
 
-<img width="500px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/coding-grammar/standards.jpg" >
 

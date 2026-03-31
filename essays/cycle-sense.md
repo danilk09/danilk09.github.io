@@ -13,7 +13,7 @@ labels:
 <div class="text-center">
   <img class="img-fluid" src="../img/cycle-sense/uh_logo.png">
 </div>
-
+<br>
 ## CycleSense
 <br>
 Collaborators: Joshua Au, Tyler Unger, Danil Knight, Riley Herradura, Julius Lagazo

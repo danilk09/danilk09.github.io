@@ -10,11 +10,11 @@ labels:
   - Nextjs
 ---
 
-<div class="text-center pb-1">
+<div class="text-center pb-2">
   <img class="img-fluid" src="../img/cycle-sense/uh_logo.png">
 </div>
 
-## CycleSense
+## Project: CycleSense
 Collaborators: Joshua Au, Tyler Unger, Danil Knight, Riley Herradura, Julius Lagazo
 <br>
 

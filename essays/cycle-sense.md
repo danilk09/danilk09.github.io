@@ -14,10 +14,10 @@ labels:
   <img class="img-fluid" src="../img/cycle-sense/uh_logo.png">
 </div>
 
-# CycleSense
-
-### Collaborators: Joshua Au, Tyler Unger, Danil Knight, Riley Herradura, Julius Lagazo
-
+## CycleSense
+<br>
+Collaborators: Joshua Au, Tyler Unger, Danil Knight, Riley Herradura, Julius Lagazo
+<br>
 ### Overview
 
 *The Problem:* Recycling has an emphasis in Hawai’i with the common saying “malama i ka ‘aina,” meaning to care for and protect the land. UH Manoa is a large campus and  albeit convenient to toss bottles/cans into trash bins, this does not effectively help with protecting the environment.

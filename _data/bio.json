@@ -2,7 +2,7 @@
   "basics": {
     "name": "Danil Knight",
     "label": "Student",
-    "picture": "img/danil_knight.jpg",
+    "picture": "img/linkedin_pic.png",
     "email": "danil.k1469@gmail.com",
     "website": "https://danilk09.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2028. I am seeking computer science summer internship to strengthen personal competencies, while contributing to the organization’s goals.",
@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "React", "C/C++", "Java", "Jinja", "TypeScript", "HTML", "CSS", "SQL", "JavaScript", "Angular"]
+      "keywords": [ "Python", "Java", "C/C++", "TypeScript", "JavaScript", "HTML", "CSS", "SQL", "React", "Next.js", "Angular", "Bootstrap", "Jinja", "Flask"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Unix", "Ubuntu", "Git/GitHub", "gcc/g++", "Sphinx", "Google Cloud", "Poetry", "Cookiecutter", "Sphinx" ]
+      "keywords": [ "Git", "GitHub Actions", "Docker", "Tailscale", "Google Cloud", "Unix", "Poetry", "Cookiecutter", "Sphinx" ]
     }
   ],
   "education": [

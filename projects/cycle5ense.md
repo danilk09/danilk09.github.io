@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cycle5ense/recycle.webp
+image: img/cycle5ense/recycle.jpg
 title: "Cycle5ense: UH Mānoa Recycle Bin Finder"
 date: 2026
 published: true
